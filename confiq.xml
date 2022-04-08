@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+android-versionCode = '1'
+id = 'com.minister.mp3Quran'
+version = '1.0.0'
+xmlns = 'https://www.w3.org/ns/widgets'>
+
+<name>mpe Quran</name>
+<description>mp3 Quran</description>
+<author>Minister</author>
+
+<preference name = 'orientation' value 'portrait'/>
+</widget?
